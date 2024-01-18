@@ -1,0 +1,2 @@
+# py-osszegzes
+# py-osszegzes
